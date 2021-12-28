@@ -1,5 +1,7 @@
-# Continuous Integration 
+# Continuous Integration
 Continuous Integration (CI) with GitHub Actions and Python - Part 1: Linting
+- Continuous Integration (CI) with GitHub Actions and Python - Part 2: Testing. [Link](https://github.com/nekoemperor/CI-Testing)
+- Continuous Integration (CI) with GitHub Actions and Python - Part 3: Code Coverage with Pytest. [Link](https://github.com/nekoemperor/CI-Code-Coverage-Pytest)
 
 ## Description
 Demo repo to accompany YouTube video demonstrating how to use [`pylinter`](https://github.com/marketplace/actions/pylinter) GitHub Action.
